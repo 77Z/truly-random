@@ -1,0 +1,19 @@
+{
+  "name": "truly-random",
+  "version": "0.0.1",
+  "description": "Random number generator for node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/77Z/truly-random.git"
+  },
+  "author": "Vince Richter",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/77Z/truly-random/issues"
+  },
+  "homepage": "https://github.com/77Z/truly-random#readme"
+}
